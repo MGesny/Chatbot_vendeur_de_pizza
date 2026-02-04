@@ -1,0 +1,39 @@
+Nom;Categorie;Taille;Prix (en euros)
+Cookie;Dessert;Unique;2
+Muffin;Dessert;Unique;2
+Tiramisu;Dessert;Unique;2,5
+4 Fromages;Pizza;Moyenne;11
+4 Fromages;Pizza;Large;14
+Americana;Pizza;Moyenne;12
+Americana;Pizza;Large;15
+Cannibale;Pizza;Moyenne;11
+Cannibale;Pizza;Large;14
+Chevre-Miel;Pizza;Moyenne;11
+Chevre-Miel;Pizza;Large;14
+Forestiere;Pizza;Moyenne;11
+Forestiere;Pizza;Large;14
+Hawaienne;Pizza;Moyenne;8
+Hawaienne;Pizza;Large;11
+Indienne;Pizza;Moyenne;12
+Indienne;Pizza;Large;15
+Margherita;Pizza;Moyenne;11
+Margherita;Pizza;Large;14
+Oceana;Pizza;Moyenne;12
+Oceana;Pizza;Large;15
+Orientale;Pizza;Moyenne;12
+Orientale;Pizza;Large;15
+Pepperoni;Pizza;Moyenne;11
+Pepperoni;Pizza;Large;14
+Reine;Pizza;Moyenne;11
+Reine;Pizza;Large;14
+Savoyarde;Pizza;Moyenne;11
+Savoyarde;Pizza;Large;14
+Vegan;Pizza;Moyenne;8,5
+Vegan;Pizza;Large;11,5
+Eau;Boisson;25 cL;0,5
+Eau;Boisson;50 cL;1
+Soda;Boisson;33 cL;1
+Soda;Boisson;1L;3,3
+Limonade;Boisson;25 cL;2
+Jus d'orange;Boisson;25 cL;0,75
+Jus de pomme;Boisson;25cL;0,75
